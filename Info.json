@@ -1,0 +1,13 @@
+{
+  "Name": "AlwaysRespawn",
+  "DisplayName": "All Items Respawn",
+  "GameVersion": 1.24,
+  "Version": 1.1,
+  "Desc": "[作者]\r\n    catgirl power !!!\r\n[简介]\r\nAll items and secrets from camp & enter maps will respawn when taken. Wildly breaks intended game balance. Items refresh upon loading sect map.",
+  "Author": "Candy",
+  "UIPackage": null,
+  "Flag": -142973959,
+  "Tags": ["Integrated", "ExcludeRealmsHeaven", "Non-Chinese"],
+  "IncreasedDesc": "",
+  "IsInsideCreat": false
+}
